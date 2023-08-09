@@ -1,6 +1,6 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
-import 'package:flash_chat1/constants/app_colors.dart';
-import 'package:flash_chat1/constants/app_text_styles.dart';
+import 'package:flash_chat1/app/constants/app_colors.dart';
+import 'package:flash_chat1/app/constants/app_text_styles.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
